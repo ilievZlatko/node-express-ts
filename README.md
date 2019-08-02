@@ -13,3 +13,10 @@ A basic setup for Node.js with Express.js and TypeScript
 ```http://localhost:3000/api-docs``` => Swagger documentation for the API
 
 ### Still under development
+
+### TODO List:
+- Add MongoDB in the game
+- Create User Auth with passport, options for google, facebook auth?!?
+- Implement JWT Bearer on protected routes
+- Split it to microservices
+- Add middle layer to comunicate between microservices and UI
