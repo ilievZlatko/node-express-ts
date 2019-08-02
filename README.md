@@ -1,6 +1,11 @@
 # node-express-ts
 
-A basic setup for Node.js with Express.js and TypeScript
+It is really hard to find well structured, easy to scale examples for Node.js rest API.
+This is the reason for this repo, it is a  boilerplate/startup for a scalable rest APIs
+built with Node.js, Express.js, TypeScript and MongoDB.
+
+This should be open to edit and scale easily, will might also have options for SQL databases,
+so far the idea is to only work with MongoDB.
 
 ## Start script
 ```npm run dev```
